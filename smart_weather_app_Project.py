@@ -322,3 +322,6 @@ if st.button("📌 Show Live Weather for Favorites"):
                     st.write(f"🏣 AQI: {aqi} (Dominant Pollutant: {dom_pol.upper()})")
     else:
         st.info("Please select at least one state to show favorites.")
+
+Output:
+http://localhost:8501/
